@@ -65,13 +65,6 @@ Wanderwise/
    npm run dev
    ```
 
-## Environment Variables
-Create a `.env` file in the root directory with the following variables:
-```
-DB_URL=mongodb://localhost:27017/wanderwise
-JWT_SECRET=your_jwt_secret
-REFRESH_TOKEN_SECRET=your_refresh_token_secret
-```
 
 ## Scripts
 - `npm run dev` — Start server with nodemon (development)
