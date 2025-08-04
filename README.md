@@ -116,7 +116,4 @@ Wanderwise/
 - **Async Handling**: All controllers use an `AsyncWrapper` for error-safe async/await.
 - **CORS**: Enabled for all routes.
 
-## License
-ISC
-
 ---
